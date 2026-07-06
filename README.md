@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Sreenivas 👋
 
-<!--
-**Sreenivas-techi49/Sreenivas-techi49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise Infrastructure Administrator focused on:
 
-Here are some ideas to get you started:
+- PowerShell Automation
+- Active Directory Governance
+- Windows Server Administration
+- Linux Administration
+- Monitoring and Observability
+- Security and Compliance
+- Infrastructure Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+- PowerShell
+- Active Directory
+- Windows Server
+- Linux
+- BitLocker
+- Windows LAPS
+- Microsoft 365
+- Zabbix
+- Git
+- GitHub
+- Visual Studio Code
+
+## Current Focus
+
+- Enterprise Automation
+- Infrastructure as Code
+- Compliance Reporting
+- Dashboard Development
+- Monitoring Automation
+
+## Featured Repository
+
+- Enterprise-Automation
