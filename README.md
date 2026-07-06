@@ -12,6 +12,14 @@ Enterprise Infrastructure Administrator specializing in automation, governance, 
 
 ---
 
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sreenivas-techi49&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreenivas-techi49&layout=compact&theme=github_dark)
+
+---
+
 ## Areas of Expertise
 
 - PowerShell Automation
@@ -28,6 +36,7 @@ Enterprise Infrastructure Administrator specializing in automation, governance, 
 ## Technology Stack
 
 ### Microsoft Technologies
+
 - Active Directory
 - Group Policy
 - Windows Server
@@ -37,19 +46,46 @@ Enterprise Infrastructure Administrator specializing in automation, governance, 
 - PowerShell
 
 ### Linux Technologies
+
 - Ubuntu Server
 - Nginx
 - Bash Scripting
 
 ### Monitoring & Management
+
 - Zabbix
 - Infrastructure Reporting
 - Compliance Dashboards
 
 ### Development & Automation
+
 - Git
 - GitHub
 - Visual Studio Code
+- HTML Reporting
+- CSS Templates
+
+---
+
+## Current Projects
+
+- Enterprise Automation Repository
+- Active Directory Governance Framework
+- BitLocker Compliance Dashboard
+- Infrastructure Monitoring Automation
+- PowerShell Reporting Framework
+
+---
+
+## Featured Repository
+
+### Enterprise-Automation
+
+Enterprise PowerShell automation, compliance dashboards, reporting, and infrastructure tooling.
+
+Repository:
+
+https://github.com/Sreenivas-techi49/Enterprise-Automation
 
 ---
 
@@ -64,17 +100,20 @@ Enterprise Infrastructure Administrator specializing in automation, governance, 
 
 ---
 
-## Featured Repository
-
-- Enterprise-Automation
-
-Enterprise PowerShell automation, compliance dashboards, reporting, and infrastructure tooling.
-
----
-
 ## Location
 
 📍 Hyderabad, India
+
+---
+
+## Philosophy
+
+- Security by Design
+- Automation First
+- Standardization
+- Observability
+- Maintainability
+- Auditability
 
 ---
 
